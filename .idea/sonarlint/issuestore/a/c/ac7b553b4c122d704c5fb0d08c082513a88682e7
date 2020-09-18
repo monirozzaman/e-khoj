@@ -1,0 +1,20 @@
+
+Lsquid:S1444".Make this "public static lastName" field final(ıÉüô8ŒŠ·È·.
+Jsquid:S1444	",Make this "public static userId" field final(Ó¡â±8ğ¢¶È·.
+Nsquid:S1444"+Make this "public static email" field final(¿ÿÒíÿÿÿÿÿ8ŒŠ·È·.
+"squid:ClassVariableVisibilityCheck
+"UMake firstName a static final constant or non-public and provide accessors if needed.(˜µ„‰şÿÿÿÿ8ŒŠ·È·.
+Msquid:S1444"*Make this "public static role" field final(’“Çğıÿÿÿÿ8ŒŠ·È·.
+"squid:ClassVariableVisibilityCheck"SMake address a static final constant or non-public and provide accessors if needed.(—åºËÿÿÿÿÿ8ŒŠ·È·.
+Rsquid:S1444
+"/Make this "public static firstName" field final(˜µ„‰şÿÿÿÿ8ŒŠ·È·.
+‡"squid:ClassVariableVisibilityCheck	"RMake userId a static final constant or non-public and provide accessors if needed.(Ó¡â±8ğ¢¶È·.
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(ÿÃ±8‡Ò°È·.
+‹"squid:ClassVariableVisibilityCheck"QMake email a static final constant or non-public and provide accessors if needed.(¿ÿÒíÿÿÿÿÿ8ŒŠ·È·.
+Psquid:S1444"-Make this "public static address" field final(—åºËÿÿÿÿÿ8ŒŠ·È·.
+"squid:ClassVariableVisibilityCheck"SMake phoneNo a static final constant or non-public and provide accessors if needed.(ğĞñÚüÿÿÿÿ8¨ë¾È·.
+Psquid:S1444"-Make this "public static phoneNo" field final(ğĞñÚüÿÿÿÿ8¨ë¾È·.
+Osquid:S1444"1Make this "public static designation" field final(¼ô©®8ŒŠ·È·.
+Œ"squid:ClassVariableVisibilityCheck"WMake designation a static final constant or non-public and provide accessors if needed.(¼ô©®8ŒŠ·È·.
+‰"squid:ClassVariableVisibilityCheck"TMake lastName a static final constant or non-public and provide accessors if needed.(ıÉüô8ŒŠ·È·.
+Š"squid:ClassVariableVisibilityCheck"PMake role a static final constant or non-public and provide accessors if needed.(’“Çğıÿÿÿÿ8ŒŠ·È·.
